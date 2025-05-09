@@ -1,5 +1,5 @@
 # FinalProjectComputer
-This project explores the historical development and significance of UNIX and Linux operating systems. It delves into their foundational roles in modern computing, highlighting their influence on contemporary technologies such as Git version control and Red Hat Enterprise Linux (RHEL).
+This project explores the historical development and significance of UNIX and Linux operating systems. It dives into their roles in modern computing, discussing their influence on technology such as Git version control and Red Hat Enterprise Linux (RHEL).
 ## Project Objectives
 
 - Analyze the core functions of the UNIX kernel.
